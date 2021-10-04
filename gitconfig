@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sebburkhardt@hotmail.de
+	name = Sebastian Burkhardt
